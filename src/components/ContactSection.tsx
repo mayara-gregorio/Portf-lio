@@ -26,7 +26,7 @@ const ContactSection = () => (
           LinkedIn
         </a>
         <a
-          href="https://github.com"
+          href="https://github.com/mayara-gregorio"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:border-primary hover:text-primary transition-colors"
