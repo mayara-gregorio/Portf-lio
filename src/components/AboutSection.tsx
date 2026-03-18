@@ -9,7 +9,7 @@ const AboutSection = () => (
         <p>
           Sou estudante de programação apaixonada por tecnologia, com experiência
           em projetos pessoais e acadêmicos. Minha jornada começou pela curiosidade
-          de entender como as coisas funcionam — e desde então, aprender e evoluir
+          de entender como as coisas funcionam e desde então, aprender e evoluir
           fazem parte da minha rotina.
         </p>
         <p>
